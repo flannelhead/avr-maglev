@@ -61,7 +61,7 @@ int16_t readPotentiometer() {
 }
 
 void setupTimer() {
-    /* Prescaler CK/32, period ~1 ms at F_CPU = 8 MHz */
+    /* Prescaler CK/16, timer period ~0.5 ms at F_CPU = 8 MHz */
     TCCR1 |= _BV(CS12) | _BV(CS10);
     /* Interrupt on overflow */
     TIMSK |= _BV(TOIE1);
