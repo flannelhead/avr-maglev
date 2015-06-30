@@ -8,12 +8,12 @@
 
 #define PW_MIN 0
 #define PW_MAX 255
-#define PW_MIDDLE 127
+#define PW_MIDDLE 60
 
-#define KP 35.0
-#define KI 0.0
-#define KD 0.002
-#define MAX_INTEGRAL 500
+#define KP 28.0
+#define KI 0.005
+#define KD 25.0
+#define MAX_INTEGRAL 100
 
 #define MUX_HALL (_BV(MUX1) | _BV(MUX0))
 #define MUX_POT _BV(MUX1)
