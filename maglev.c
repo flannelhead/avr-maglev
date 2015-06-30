@@ -18,7 +18,7 @@
 #define MUX_HALL (_BV(MUX1) | _BV(MUX0))
 #define MUX_POT _BV(MUX1)
 
-volatile bool gWait = true;
+volatile bool gDoControl = false;
 
 void setupIO() {
     /* Port B pin 0 is an output */
@@ -68,14 +68,14 @@ void setupTimer() {
 }
 
 ISR(TIM1_OVF_vect) {
-    gWait = false;
+    gDoControl = true;
 }
 
 void loop(pidParams_t *params) {
     int16_t setPoint, hallValue;
 
-    while (gWait);
-    gWait = true;
+    while (!gDoControl);
+    gDoControl = false;
 
     setPoint = readPotentiometer();
     hallValue = readHallSensor();
