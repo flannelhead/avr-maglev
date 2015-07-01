@@ -10,10 +10,13 @@
 #define PW_MAX 255
 #define PW_MIDDLE 60
 
-#define KP 28.0
-#define KI 0.005
-#define KD 25.0
-#define MAX_INTEGRAL 100
+#define POT_FACTOR 4
+#define POT_OFFSET 256
+
+#define KP 16.0
+#define KI 0.0002
+#define KD 32.0
+#define MAX_INTEGRAL 10000000
 
 #define MUX_HALL (_BV(MUX1) | _BV(MUX0))
 #define MUX_POT _BV(MUX1)
@@ -57,7 +60,7 @@ int16_t readHallSensor() {
 
 int16_t readPotentiometer() {
     ADMUX = MUX_POT;
-    return readADC();
+    return POT_OFFSET + readADC() / POT_FACTOR;
 }
 
 void setupTimer() {
