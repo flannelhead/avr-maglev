@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="485.07874"
-     inkscape:cy="267.66933"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="438.46536"
+     inkscape:cy="352.52214"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,14 +133,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="577.55902"
-       y="620.07874"
+       x="574.01575"
+       y="620.07867"
        id="text6518"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6520"
-         x="577.55902"
-         y="620.07874">8</tspan></text>
+         x="574.01575"
+         y="620.07867">8</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -250,25 +250,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="683.85828"
-       y="722.83459"
+       x="680.315"
+       y="726.37787"
        id="text6662"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6664"
-         x="683.85828"
-         y="722.83459">1</tspan></text>
+         x="680.315"
+         y="726.37787">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="612.23737"
-       y="880.30298"
+       x="609.44885"
+       y="878.74011"
        id="text6666"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6668"
-         x="612.23737"
-         y="880.30298">4</tspan></text>
+         x="609.44885"
+         y="878.74011">4</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -483,12 +483,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text6879"
-       y="793.70074"
-       x="683.85828"
+       y="797.24402"
+       x="680.315"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="793.70074"
-         x="683.85828"
+         y="797.24402"
+         x="680.315"
          id="tspan6881"
          sodipodi:role="line">5</tspan></text>
     <path
@@ -1274,5 +1274,27 @@
        id="path2404-13"
        inkscape:transform-center-x="0.5"
        inkscape:transform-center-y="-7.4999942" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="460.62994"
+       y="726.37787"
+       id="text4604"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4606"
+         x="460.62994"
+         y="726.37787">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'PT Sans';-inkscape-font-specification:'PT Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="460.62994"
+       y="797.24402"
+       id="text4608"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="460.62994"
+         y="797.24402"
+         id="tspan4612">3</tspan></text>
   </g>
 </svg>
